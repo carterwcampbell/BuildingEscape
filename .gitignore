@@ -84,3 +84,6 @@ VSCode Files
 /.vscode/*
 BuildingEscape2.code-workspace
 
+# Imported UAssets
+Content/Content/*
+
